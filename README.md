@@ -47,4 +47,4 @@ And the figma design file.
 ## 📝 License
 
 This project is 
-[licensed](https://github.com/samuelmoiwa/Hello-Microverse-Project/blob/hello-microverse/license.txt) .
+[licensed](https://github.com/samuelmoiwa/Microverse-student-profile-1/blob/Develop/MIT.md) .
