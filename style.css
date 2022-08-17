@@ -15,8 +15,9 @@ body {
   display: flex;
   flex-direction: row;
   height: 80px;
-  background-repeat: no-repeat;
   background-image: url(IMAGES/image-1.svg);
+  background-repeat: no-repeat;
+  
 }
 
 .header {
@@ -52,7 +53,7 @@ body {
 
 .my-name {
   font-family: 'Playfair Display', serif;
-  font-weight: 700;
+  font-weight: 400;
   font-size: 50px;
   align-items: center;
   margin-bottom: 0;
