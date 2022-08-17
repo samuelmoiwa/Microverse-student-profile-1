@@ -1,5 +1,11 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
+# Profile Design Mobile Version
+
+> Description the project.
+- simple HTML & CSS code, that designs the mobile version of a profile layout.
+- configure with linters 
+
 # Getting Started
 
 **please get your browser update. To get a local copy up and running follow these simple steps.**
@@ -7,15 +13,8 @@
 Run the command below from the terminal
 
 - git clone in your terminal
-- cd hello-micriverse
+- cd Microverse-student-profile-1
 - start index.html
-
-# Profile Design Mobile Version
-
-> Description the project.
-- simple HTML & CSS code, that designs the mobile version of a profile layout.
-- configure with linters 
-
 
 ## Built With
 
